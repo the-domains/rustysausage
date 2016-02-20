@@ -1,0 +1,14 @@
+layout_spectrum: 0.1697995
+color:
+  saturation: 0.8070176
+  lightness: 0.8162714
+  brandStrength: 0.4887218
+  brandColors:
+    - '#050202'
+    - '#AC906E'
+    - '#E8E1A3'
+    - '#FFFBFF'
+    - '#5B6E30'
+  rhythmicContrast: 0.8368748
+typography_spectrum: 0.368421
+name: rustysausage
