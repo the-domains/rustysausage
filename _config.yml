@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2656642
 color:
   saturation: 0.8070176
   brandStrength: 0.5307018
@@ -22,5 +21,6 @@ color:
     - '#595B5A'
     - '#CECE4C'
   rhythmicContrast: 0.8368748
-layout_spectrum: 0.2944862
+typography_spectrum: 0.2656642
+layout_spectrum: 0.8753133
 name: rustysausage
