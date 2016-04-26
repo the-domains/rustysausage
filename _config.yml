@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.2656642
 color:
   saturation: 0.8070176
   brandStrength: 0.5307018
   lightness: 0.8162714
   brandColors:
-    - '#060402'
-    - '#6E421F'
-    - '#FB3903'
-    - '#B4BD88'
-    - '#FFA303'
+    - '#FFFFFF'
+    - '#000700'
+    - '#92917D'
+    - '#595B5A'
+    - '#CECE4C'
   rhythmicContrast: 0.8368748
 layout_spectrum: 0.2944862
 name: rustysausage
